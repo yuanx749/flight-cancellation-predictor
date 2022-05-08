@@ -1,2 +1,2 @@
 # flight-cancellation-predictor
-Flight cancellation probability prediction based on circuit breaker.
+Predict flight cancellation probability under circuit breaker policies using Monte Carlo method.
